@@ -24,6 +24,7 @@
       <img aalt="Logo Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
       <img alt="Logo Photoshop" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
       <img alt="Logo Trello" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg">
+      <img alt="Logo Adobe Xd" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
   </h3>
 </div>
 
